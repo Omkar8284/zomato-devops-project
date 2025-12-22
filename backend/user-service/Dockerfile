@@ -7,3 +7,4 @@ COPY . .
 
 EXPOSE 3003
 CMD ["node", "src/server.js"]
+
